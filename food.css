@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.log-size{
+    width: 70px;
+    height: 70px;
+    background-color: grey;
+}
+#navabar-text-color{
+    color: blue;
+    font-weight:bold ;
+    font-size: 20px;
+    font-style: italic;
+}
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:90vh;
+    background-size: cover;
+}
+.heading{
+    color: white;
+    font-size: 60px;
+    text-decoration: underline;
+    font-style:italic;
+}
+.para{
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+    font-style:italic;
+    }
+.button-size{
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+   
+}
+.button-2{
+    color: #d0b200;
+  background-color: transparent;
+  width: 130px;
+  height: 45px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d0b200;
+  border-radius: 8px;
+}
+.text-center{
+    text-align: center;
+}
+.wuc-section{
+    background-color: #f9fbfe;
+}
+.wuc-heading{
+    font-style: italic;
+    font-weight: 600px;
+    text-decoration: underline;
+    font-size: 50px;
+}
+.wuc-para{
+    font-size: 20px;
+    color: grey;
+}
+.wuc-card{
+    background-color: white;
+    text-align: center;
+    border-radius:20px ;
+    border-width: 5px;
+    border-color: #e5eaf4;
+    border-style: solid;
+    
+}
+.food-size{
+    padding: 10px;
+    font-size: 50px;
+    text-decoration: underline;
+    font-style: italic;
+}
+.image{
+    height: 80px;
+    width: 80px;
+}
+.card-para{
+    font-size: 20px;
+    color: grey;
+    font-weight: 700px;
+}
+.offers{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+.explore-menu-card{
+    background-color: white;
+ }
+.explore{
+     font-family: Roboto;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+.image-set{
+    border-radius: 20px;
+    height: 400px;
+}
+.non-veg{
+    text-decoration: underline;
+    font-style: italic;
+}
+.menu-view-link{
+    font-size: 30px;
+    color:#d0b200;
+    font-weight: bold;
+    font-style: italic;
+}
+.shadow-boder{
+    border-radius: 26px;
+}
+.first-section{
+    background-color: #f9fbfe;
+}
+.first-image{
+    height: 350px;
+    width: 80%;
+}
+.fist-heading{
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 40px;
+    
+}
+.first-align{
+    text-align: center;
+}
+.first-para{
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 5000px;
+}
+.second-section{
+    background-color: white;
+}
+.first-button{
+    background-color:#d0b200 ;
+    color: white;
+    border-radius: 10px;
+    border-width: 5px;
+}
+.button-align{
+    text-align: left;
+}
+.payment-card-img{
+    height: 100px;
+    width: 80px;
+    padding: 15px;
+}
+.last-sec{
+    background-color: #d0b2001a;
+}
+.sec-image{
+    width: 170px;
+    margin-bottom: 20px;
+}
+.follow-us{
+    background-color: white;
+}
+.follow-heading{
+    font-size: 40px;
+    font-family: Roboto;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.follow-align{
+    text-align: center;
+}
+.follow-us-section{
+    background-color: white;
+}
+.follow-us-section-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 48px;
+    color: #183b56;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+.image-follow{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    padding-left:22px;
+    margin: 15px;
+}
+.icon{
+    color: #d0b200;
+    font-size: 35px;
+}
+.center{
+    text-align: center;
+}
+.footer-section {
+  background-color: #0d2436;
+}
+.footer-section-mail-id {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.footer-section-address {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 14px;
+}
+.log-size2{
+    background-color: transparent;
+    height: 100px;
+    width: 100px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
